@@ -1,6 +1,6 @@
 # Hi there 👋
 
-##I'm Thayrine Santos, originally from São Paulo - SP - Brazil.
+I'm Thayrine Santos, originally from São Paulo - SP - Brazil.
 
 I have training in Systems Analysis and Development and also Information Technology Management, developing work in the languages ​​Java, JavaScript, CSS, HTML, Bootstrap and Angular, professional experience with SAP Concur tools, agile methodology, market research, Power BI, Service Now and requirements gathering.
 
