@@ -1,16 +1,14 @@
-### Hi there 👋
-
+# Hi there 👋
 <!--
-**thayrinerenata/thayrinerenata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thayrine Santos, originally from São Paulo - SP - Brazil.
 
-Here are some ideas to get you started:
+I have training in Systems Analysis and Development and also Information Technology Management, developing work in the languages ​​Java, JavaScript, CSS, HTML, Bootstrap and Angular, professional experience with SAP Concur tools, agile methodology, market research, Power BI, Service Now and requirements gathering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning backend Java/MySQL;
+- 👯 I’m looking to collaborate on mobile frontend and web applications;  
+- 🤔 I’m looking for help with Angular and ADvPL languages;
+- 💬 Ask me about LinkedIn profile editing, design ideas/application features;
+- 📫 How to reach me: https://www.linkedin.com/in/thayrinesantos/
+- 😄 Pronouns: She/Her;
+- ⚡ Fun fact: Using your artistic knowledge in the development of websites/systems.
 -->
